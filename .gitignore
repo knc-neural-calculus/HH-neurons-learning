@@ -1,0 +1,7 @@
+BNBP/psweep/data/**
+BNBP/mnist/*-ubyte
+**/*.pyc
+**/__pycache__/**
+# un-ignore docs/** later, when the docs are complete. for now only build them locally
+docs/**
+# html/**
